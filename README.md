@@ -26,12 +26,10 @@ To perform manual testing on a login web application.
 ## Tools Used
 - Excel
 ## Screenshots
--Login-page.png  
--Password-invalid.png  
--Username-invalid.png  
--successful-login.png
--Test_Case1.png
--Test_Case2.png
+![Login Page](Login-page.png)
+![Invalid Password](Password-invalid.png)
+![Invalid Username](Username-invalid.png)
+![Successful Login](successful-login.png)
 ## Outcome
 Learned how to design test cases and report bugs
 =======
