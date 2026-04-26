@@ -22,9 +22,9 @@ To perform manual testing on a login web application.
 - Excel
 ## Screenshots
 
-![Login Page](Screenshots/login-page.png)
-- Manual Testing
-
+![Login Page](login-page.png)
+![Error](screenshot2.png)
+![Success](screenshot3.png)
 ## Outcome
 Learned how to design test cases and report bugs
 =======
