@@ -1,6 +1,11 @@
 
 # Manual Testing Practice Project
 
+This repository showcases my manual testing work including:
+- Test case design
+- Bug reporting with severity
+- Functional and UI testing
+
 ## Website Tested
 https://practicetestautomation.com/practice-test-login/
 
@@ -21,15 +26,12 @@ To perform manual testing on a login web application.
 ## Tools Used
 - Excel
 ## Screenshots
-
-![Login Page](Screenshot 2026-04-26 110609.png)
-![Login Page 2](Screenshot 2026-04-26 110655.png)
-![Login Page 3](Screenshot 2026-04-26 110723.png)
-![Login Page 4](Screenshot 2026-04-26 110739.png)
-![Login Page 5](Screenshot 2026-04-26 110803.png)
-![Login Page 6](Screenshot 2026-04-26 110821.png)
-![Screenshot](screenshot5.png)
-![Screenshot](screenshot6.png)
+-Login-page.png  
+-Password-invalid.png  
+-Username-invalid.png  
+-successful-login.png
+-Test_Case1.png
+-Test_Case2.png
 ## Outcome
 Learned how to design test cases and report bugs
 =======
