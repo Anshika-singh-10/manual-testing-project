@@ -1,3 +1,4 @@
+
 # Manual Testing Practice Project
 
 ## Website Tested
@@ -23,3 +24,5 @@ To perform manual testing on a login web application.
 
 ## Outcome
 Learned how to design test cases and report bugs
+=======
+# manual-testing-project
