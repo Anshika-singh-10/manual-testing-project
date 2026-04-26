@@ -20,6 +20,9 @@ To perform manual testing on a login web application.
 
 ## Tools Used
 - Excel
+## Screenshots
+
+![Login Page](Screenshots/login-page.png)
 - Manual Testing
 
 ## Outcome
