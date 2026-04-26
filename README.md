@@ -1,13 +1,13 @@
 
-# Manual Testing Practice Project
+## Manual Testing Project
 
-This repository showcases my manual testing work on a login web application.
+This repository demonstrates my hands-on experience in manual testing of a web-based login application.
 
-### Key Highlights:
+### Key Contributions:
 - Designed and executed 10+ test cases
-- Identified and reported bugs with severity levels
+- Identified and logged bugs with severity levels
 - Performed functional, exploratory, and UI testing
-- Documented results using Excel and screenshots
+- Documented test results using Excel and screenshots
 ## Website Tested
 https://practicetestautomation.com/practice-test-login/
 
