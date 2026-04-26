@@ -1,11 +1,13 @@
 
 # Manual Testing Practice Project
 
-This repository showcases my manual testing work including:
-- Test case design
-- Bug reporting with severity
-- Functional and UI testing
+This repository showcases my manual testing work on a login web application.
 
+### Key Highlights:
+- Designed and executed 10+ test cases
+- Identified and reported bugs with severity levels
+- Performed functional, exploratory, and UI testing
+- Documented results using Excel and screenshots
 ## Website Tested
 https://practicetestautomation.com/practice-test-login/
 
