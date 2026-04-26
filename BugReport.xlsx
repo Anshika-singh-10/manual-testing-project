@@ -1,0 +1,6 @@
+Bug_ID	Description	Steps	Expected	Actual	Severity	Status
+BUG01	Error message unclear	Wrong login	Clear message	Generic	Medium	Open
+BUG02	No loading indicator	Click login	Show loader	No loader	Medium	Open
+BUG03	UI misalignment	Open page	Proper UI	Slight issue	Low	Open
+BUG04	Error disappears fast	Trigger error	Stay visible	Disappears	Low	Open
+BUG05	No password hint	Weak password	Suggestion	None	Low	Open

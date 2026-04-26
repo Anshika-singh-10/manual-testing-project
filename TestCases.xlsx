@@ -1,0 +1,11 @@
+TC_ID	Scenario	 Steps	Expected Result	Actual Result	Status
+TC01	Valid Login	Enter valid username and password	Login successful	Login successful	Pass
+TC02	Invalid Password	Enter wrong password	Error message	Error shown	Pass
+TC03	Empty Username	Leave username blank	Validation error	Error shown	Pass
+TC04	Empty Password	Leave password blank	Validation error	Error shown	Pass
+TC05	Both Empty	Click login without input	Error message	Error shown	Pass
+TC06	Password Masking	Type password	Hidden text	Hidden	Pass
+TC07	Logout	Click logout	Logged out	Logged out	Pass
+TC08	Session Check	Refresh page	Stay logged in	Works	Pass
+TC09	Case Sensitivity	Change case	Login fails	Failed	Pass
+TC10	UI Check	Check alignment	Proper UI	Looks fine	Pass
