@@ -22,8 +22,7 @@ To perform manual testing on a login web application.
 - Excel
 ## Screenshots
 
-![Login Page](login-page.png)
-![Error](screenshot2.png)
+![Login](Screenshot 2026-04-26 110609.png)
 ![Success](screenshot3.png)
 ## Outcome
 Learned how to design test cases and report bugs
